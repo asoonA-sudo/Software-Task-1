@@ -36,12 +36,61 @@ The website must work properly in a standard web browser and respond clearly whe
 
 # Non-Fuctionaal Requirenents
 
-##1. Performance
+## 1. Performance
 
 -The website should load quickly
+-It should respond fast when users click on links.
+
+## 2. Usabiltiy
+
+-Users must be able to find any learning content within three clicks from the homepage.
+
+## 3. Security
+
+-If users information is collected, it must be kept safe.
+
+## 4. User Experience (UX)
+
+-The website must work on both computers and mobile devices.
+
+---
 
 
+# Constraints
 
-#Constraints
+## Resource Limited
 
-#Acceptable Criteria
+-Only free tools may be used
+-No paid software is allowed
+-The website
+
+## Technology
+
+-The project will only use HTML.
+
+## Dealine
+
+- The Website must be completed by Term 2, Week 2
+
+
+# Acceptable Criteria
+
+## 1. Performance
+
+-The website responds quickly when users click on links
+-Pages load without noticable delay
+
+## 2. Usabiltiy
+
+-All instructional content can be accessed within three clicks from the home page.
+-The layout is clear and easy to understand.
+
+## 3. Navigation
+
+-Users can move between pages without broken links.
+-No error pages appear during normal use.
+
+## 4. Functionality
+
+-All links and buttons work correctly.
+-Any forms collect information properly
