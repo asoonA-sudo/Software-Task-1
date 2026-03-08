@@ -1,17 +1,17 @@
 # Problem Definition
-##Aim
+## Aim
 
 The goal of this project is to create a website that displays educational content in a clear and simple way.  
 The website must work properly in a standard web browser and respond clearly when users click on links or buttons.
 
-#Functional requirements
+# Functional requirements
 
-##1. Interactive Website
+## 1. Interactive Website
 
 -The Website must work correctly.
 -Users must be able to click on links or buttons to access learning content.
 
-##2. Navigation Between Pages
+## 2. Navigation Between Pages
 
 - Users must be able to move between different sections of the website easily.
 - There must be no broken links or error pages.
