@@ -1,6 +1,6 @@
 # User Specification
 
-##Target Users
+## Target Users
 
 - Students (Main Users)
 - Teachers (Secondary Users)
