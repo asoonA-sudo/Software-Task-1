@@ -29,3 +29,18 @@
 - Text mut be easy to read with clear headings
 - Information should be organised into sections
 - Important content should stand out
+
+### Fast response
+
+- Pages should load quickly when clicked
+- Users should not have to wait long for content to appear
+
+### Accessible Design
+- The website must work on computers, tablets and phones.
+- It should display correctly on different screen sizes
+- It must run in any standard web browser
+
+### Reliable Functionality
+- All links and buttons must work correctly
+- No broken pages or missing content
+- Forms (if used) must work properly
