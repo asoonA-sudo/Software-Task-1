@@ -44,3 +44,24 @@
 - All links and buttons must work correctly
 - No broken pages or missing content
 - Forms (if used) must work properly
+
+### Readability
+- Font size should be easy to read
+- Colours should not make text hard to see
+- Content should be written in simple languages
+
+---
+
+## User Expectations
+
+- The website is simple and not confusing
+- Information is useful and relevant to learning
+- The design looks clean and organsied
+- The website works without erros
+- Users feel confident using the site without help
+
+## User Experience Goal
+
+- Users can quickly understand how to use the website
+- Users can find what they need without geting lost
+- Users have a smooth and frustration-free experience
