@@ -21,13 +21,25 @@ This website is designed to be simple, clear and easy to use so students can foc
 
 ### Readabiltiy
 - Easy-to-read fonts and clear colours are used 
-- Information is broken into smaller section to avoid overwhelming users.
+- Information is broken into smaller section to avoid overwhelming users
 - Important points are highlighted using headings
 
 ### Consistency
 - The same layout, colours and style are used across all pages
 - This makes the website predictable and easier to use
 
+### Responsive Design
+- The website is designed to work on both computers and mobile devices
+- Elements adjust to fit different screen sizes
+
+----
+
+## Functionality
+
+### Flashcards
+- Users can view flashcards that contain questions and answers
+- Cards can be clicked to reveal answers
+- This supports memory recall and quick revision
 
 
 
