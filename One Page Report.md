@@ -41,6 +41,28 @@ This website is designed to be simple, clear and easy to use so students can foc
 - Cards can be clicked to reveal answers
 - This supports memory recall and quick revision
 
+### Quiz
+- Users can answer multiple questions to test their knowledge
+- The website gives feedback (correct or incorrect).
+- This helps users identify areas they need to improve.
 
+### Navigation
+- Users can move between flashcards and quiz pages using links or buttons.
+- Navigation is simple and reliable with no broken links.
 
+### Performance
+- Pages load quickly and respond instantly to clicks.
+- The website runs smoothly in a standard web browser.
+
+### Content Structure
+- Information is organised using HTML elements like headings, paragraphs, and lists.
+- This improves clarity and makes the content easier to follow.
+
+-----
+
+## Summary
+
+Overall, the website provides a simple and effective learning tool for students
+By combining flashcards and quizzes, it supports both revision and self-testing.
+The focus on clear design, easy navigation, and reliable functionality ensures a positive user experience and helps students learn more effectively.
 
