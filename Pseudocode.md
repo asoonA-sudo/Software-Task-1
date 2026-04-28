@@ -19,3 +19,72 @@ Get user Choice
     ELSE
         DISPLAY "Invalid input"
     END IF
+
+PROCEDURE FlashcardModule
+
+SET index = 0
+
+WHILE index < numberOfFlashcards DO
+
+DISPLAY flashcard question
+
+WAIT for user action (click)
+    
+DISPLAY flashcard answer
+   
+DISPLAY "Next"
+    
+index = index + 1
+
+END WHILE
+
+RETURN to main menu
+
+END PROCEDURE
+
+
+
+PROCEDURE QuizModule
+
+SET score = 0
+SET questionNumber = 0
+
+WHILE questionNumber < totalQuestions DO
+
+DISPLAY question
+
+GET userAnswer
+
+IF userAnswer = correctAnswer THEN
+        DISPLAY "Correct"
+        score = score + 1
+    ELSE
+        DISPLAY "Incorrect"
+    END IF
+    
+ questionNumber = questionNumber + 1
+
+END WHILE
+
+DISPLAY "Your score is: " + score
+
+RETURN to main menu
+
+END PROCEDURE
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
