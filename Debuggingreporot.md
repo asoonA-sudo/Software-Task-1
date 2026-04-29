@@ -15,7 +15,7 @@ Some links did not open the correct pages or showed an error.
 Incorrect file names or wrong link paths in the HTML.
 
 **Solution:**  
-- Checked all '<a href="">` links  
+- Checked all links  
 - Fixed file names and paths  
 - Tested each link
 
